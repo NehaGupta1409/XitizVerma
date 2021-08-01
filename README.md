@@ -51,8 +51,6 @@ Competitive Coding | Open Source Contributions | Web development | Cloud Computi
 
 
 
-[twitter]: https://twitter.com/its_me_xitiz
-[instagram]: https://instagram.com/its_me_xitiz
-[linkedin]: https://linkedin.com/in/xitiz-verma-1b763b190
-[Gmail]: mailto:xitizverma@gmail.com
+[linkedin]: https://linkedin.com/in/NehaGupta
+[Gmail]: mailto:nehasathyendargupta14@gmail.com
 
