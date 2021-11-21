@@ -1,4 +1,4 @@
-# Hey there! I'm Xitiz 👋
+# Hey  👋
 
 ## About me 🙋🏻‍♂️
 I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
