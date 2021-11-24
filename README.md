@@ -31,14 +31,6 @@ I am regular to Competitive Coding ,and have my area of interest in Web Developm
 
 Competitive Coding | Web development | Data Structures 
 
-## My Github Stats
-
-![Neha's github stats](https://github-readme-stats.vercel.app/api?username=NehaGupta&count_private=true&show_icons=true&theme=tokyonight) 
-
-## My Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaGupta&langs_count=10&show_icons=true&theme=radical)
-
 ## Connect With Me
 
 [<img align="left" alt="NehaGupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
