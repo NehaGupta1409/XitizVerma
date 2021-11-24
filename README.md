@@ -1,9 +1,8 @@
 # Hey  👋
 
 ## About me 🙋🏻‍♂️
-I am a 2nd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
-I am regular to Competitive Coding ,and have my area of interest in Web Development and Cloud projects.
-I ❤ contributing to Open Source.
+I am a 3rd year CSE undergraduate student at Dayananda Sagar College Of Engineering, Bangalore!
+I am regular to Competitive Coding ,and have my area of interest in Web DevelopmenT , Machine Learning 
 
 ## Languages and Tools
 
@@ -30,22 +29,22 @@ I ❤ contributing to Open Source.
 
 ## My Interests
 
-Competitive Coding | Open Source Contributions | Web development | Cloud Computing
+Competitive Coding | Web development | Data Structures 
 
 ## My Github Stats
 
-![Xitiz's github stats](https://github-readme-stats.vercel.app/api?username=XitizVerma&count_private=true&show_icons=true&theme=tokyonight) 
+![Neha's github stats](https://github-readme-stats.vercel.app/api?username=NehaGupta&count_private=true&show_icons=true&theme=tokyonight) 
 
 ## My Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XitizVerma&langs_count=10&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NehaGupta&langs_count=10&show_icons=true&theme=radical)
 
 ## Connect With Me
 
-[<img align="left" alt="XitizVerma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="XitizVerma | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
-[<img align="left" alt="XitizVerma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="XitizVerma | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="NehaGupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="NehaGupta | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][Gmail]
+[<img align="left" alt="NehaGupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="NehaGupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 <br/>
 
